@@ -1,2 +1,1 @@
- # DiceGame by JavaScript
 
